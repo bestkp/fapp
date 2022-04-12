@@ -1,0 +1,27 @@
+{
+  "name": "fapp",
+  "version": "1.0.0",
+  "description": "quick start for developing fpp apps",
+  "main": "bin/index.js",
+  "bin": {
+    "fapp": "bin/index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git.funpinpin.cn:2222/apps/fpp-cli.git"
+  },
+  "keywords": [
+    "fapp"
+  ],
+  "author": "fpp",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "commander": "^9.1.0",
+    "inquirer": "^8.2.2"
+  }
+}
