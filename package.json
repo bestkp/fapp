@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@git.funpinpin.cn:2222/apps/fapp.git"
+    "url": "git@github.com:bestkp/fapp.git"
   },
   "keywords": [
     "fapp"
